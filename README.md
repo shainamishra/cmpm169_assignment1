@@ -1,4 +1,4 @@
-# CMPM 169 Assignment1
+# CMPM 169 Assignment 1
 Week 1
 
 1. Make a drawing in the p5.js editor.
